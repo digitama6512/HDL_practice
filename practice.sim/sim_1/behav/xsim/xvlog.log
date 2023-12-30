@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/fpga/workspace/hdl_workspace/practice/src/arb_if.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/fpga/workspace/hdl_workspace/practice/src/arb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module arb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/fpga/workspace/hdl_workspace/practice/sim/top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/fpga/workspace/hdl_workspace/practice/sim/test_with_cb.sv" into library xil_defaultlib

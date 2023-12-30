@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 16 2023
+19:36:26
+/home/fpga/workspace/hdl_workspace/practice/practice.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+/home/fpga/workspace/hdl_workspace/practice/sim/test_with_cb.sv,1693386086,systemVerilog,,,,test_with_cb,,uvm,,,,,,
+/home/fpga/workspace/hdl_workspace/practice/sim/top.sv,1693403933,systemVerilog,,/home/fpga/workspace/hdl_workspace/practice/sim/test_with_cb.sv,,top,,uvm,,,,,,
+/home/fpga/workspace/hdl_workspace/practice/src/arb.sv,1693310492,systemVerilog,,/home/fpga/workspace/hdl_workspace/practice/sim/top.sv,,arb,,uvm,,,,,,
+/home/fpga/workspace/hdl_workspace/practice/src/arb_if.sv,1693312712,systemVerilog,/home/fpga/workspace/hdl_workspace/practice/sim/test_with_cb.sv;/home/fpga/workspace/hdl_workspace/practice/sim/top.sv;/home/fpga/workspace/hdl_workspace/practice/src/arb.sv,/home/fpga/workspace/hdl_workspace/practice/src/arb.sv,,$unit_arb_if_sv_2394559143;arb_if,,uvm,,,,,,
